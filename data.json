@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T16:33:07-06:00",
+  "updatedAt": "2026-09-22T16:47:30-06:00",
   "teams": [
     {
       "name": "Show Me Your TDs",
@@ -25,21 +25,21 @@
       "away": "Winning Will & Bryan",
       "homeScore": 0,
       "awayScore": 6,
-      "homeFollowupPct": 47.91666666666667,
+      "homeFollowupPct": 50.0,
       "awayFollowupPct": 85.71428571428571,
-      "homeRicochetCalls": 221,
-      "awayRicochetCalls": 298,
+      "homeRicochetCalls": 236,
+      "awayRicochetCalls": 308,
       "final": false
     },
     {
       "date": "2026-09-22",
       "home": "Belt to Ass",
       "away": "Chris Davis",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
       "homeFollowupPct": 0.0,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 374,
+      "homeRicochetCalls": 384,
       "awayRicochetCalls": 238,
       "final": false
     }
