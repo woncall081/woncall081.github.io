@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T17:34:18-06:00",
+  "updatedAt": "2026-09-22T17:35:31-06:00",
   "teams": [
     {
       "name": "Show Me Your TDs",
@@ -27,7 +27,7 @@
       "awayScore": 6,
       "homeFollowupPct": 53.333333333333336,
       "awayFollowupPct": 85.71428571428571,
-      "homeRicochetCalls": 287,
+      "homeRicochetCalls": 288,
       "awayRicochetCalls": 343,
       "final": false
     },
