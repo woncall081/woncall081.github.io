@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:35:11-06:00",
+  "updatedAt": "2026-09-22T12:40:36-06:00",
   "teams": [
     {"name":"Show Me Your TDs","players":"Bill Pointer & Caleb Haycox"},
     {"name":"Winning Will & Bryan","players":"Bryan Eyermann & William McCartney"},
@@ -7,7 +7,7 @@
     {"name":"Chris Davis","players":"Chris Davis & TBD"}
   ],
   "games": [
-    {"date":"2026-09-22","home":"Show Me Your TDs","away":"Winning Will & Bryan","homeScore":null,"awayScore":null},
+    {"date":"2026-09-22","home":"Show Me Your TDs","away":"Winning Will & Bryan","homeScore":0,"awayScore":3},
     {"date":"2026-09-22","home":"Belt to Ass","away":"Chris Davis","homeScore":null,"awayScore":null}
   ]
 }
