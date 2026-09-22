@@ -1,35 +1,47 @@
 {
-  "updatedAt": "2026-09-22T13:12:55-06:00",
+  "updatedAt": "2026-09-22T13:19:12-06:00",
   "teams": [
-    {"name":"Show Me Your TDs","players":"Bill Pointer & Caleb Haycox"},
-    {"name":"Winning Will & Bryan","players":"Bryan Eyermann & William McCartney"},
-    {"name":"Belt to Ass","players":"Shaki Walker & Alex Smith"},
-    {"name":"Chris Davis","players":"Chris Davis & teammate TBD"}
+    {
+      "name": "Show Me Your TDs",
+      "players": "Bill Pointer & Caleb Haycox"
+    },
+    {
+      "name": "Winning Will & Bryan",
+      "players": "Bryan Eyermann & William McCartney"
+    },
+    {
+      "name": "Belt to Ass",
+      "players": "Shaki Walker & Alex Smith"
+    },
+    {
+      "name": "Chris Davis",
+      "players": "Chris Davis & teammate TBD"
+    }
   ],
   "games": [
     {
-      "date":"2026-09-22",
-      "home":"Show Me Your TDs",
-      "away":"Winning Will & Bryan",
-      "homeScore":0,
-      "awayScore":3,
-      "homeFollowupPct":22.0,
-      "awayFollowupPct":26.6666666667,
-      "homeRicochetCalls":143,
-      "awayRicochetCalls":209,
-      "final":false
+      "date": "2026-09-22",
+      "home": "Show Me Your TDs",
+      "away": "Winning Will & Bryan",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeFollowupPct": 22.0,
+      "awayFollowupPct": 31.03448275862069,
+      "homeRicochetCalls": 102,
+      "awayRicochetCalls": 171,
+      "final": false
     },
     {
-      "date":"2026-09-22",
-      "home":"Belt to Ass",
-      "away":"Chris Davis",
-      "homeScore":0,
-      "awayScore":0,
-      "homeFollowupPct":0.0,
-      "awayFollowupPct":null,
-      "homeRicochetCalls":264,
-      "awayRicochetCalls":130,
-      "final":false
+      "date": "2026-09-22",
+      "home": "Belt to Ass",
+      "away": "Chris Davis",
+      "homeScore": null,
+      "awayScore": null,
+      "homeFollowupPct": 0.0,
+      "awayFollowupPct": null,
+      "homeRicochetCalls": 234,
+      "awayRicochetCalls": 111,
+      "final": false
     }
   ]
 }
