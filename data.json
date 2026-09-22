@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T17:03:18-06:00",
+  "updatedAt": "2026-09-22T17:18:09-06:00",
   "teams": [
     {
       "name": "Show Me Your TDs",
@@ -27,8 +27,8 @@
       "awayScore": 6,
       "homeFollowupPct": 50.0,
       "awayFollowupPct": 85.71428571428571,
-      "homeRicochetCalls": 261,
-      "awayRicochetCalls": 322,
+      "homeRicochetCalls": 278,
+      "awayRicochetCalls": 332,
       "final": false
     },
     {
@@ -37,9 +37,9 @@
       "away": "Chris Davis",
       "homeScore": 3,
       "awayScore": 0,
-      "homeFollowupPct": 0.0,
+      "homeFollowupPct": 6.25,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 392,
+      "homeRicochetCalls": 405,
       "awayRicochetCalls": 238,
       "final": false
     }
