@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T10:50:22-06:00",
+  "updatedAt": "2026-09-23T11:04:39-06:00",
   "teams": [
     {
       "name": "Show Me Your TDs",
@@ -57,10 +57,10 @@
       "awayGoodConversations": 0,
       "homeGoodConversationPoints": 6,
       "awayGoodConversationPoints": 0,
-      "homeFollowupPct": 10.909090909090908,
+      "homeFollowupPct": 14.545454545454545,
       "awayFollowupPct": 0.0,
-      "homeRicochetCalls": 31,
-      "awayRicochetCalls": 49,
+      "homeRicochetCalls": 50,
+      "awayRicochetCalls": 56,
       "final": false
     },
     {
@@ -79,7 +79,7 @@
       "awayGoodConversationPoints": 0,
       "homeFollowupPct": 15.0,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 84,
+      "homeRicochetCalls": 101,
       "awayRicochetCalls": 0,
       "final": false
     }
