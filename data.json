@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T10:34:33-06:00",
+  "updatedAt": "2026-09-23T10:50:22-06:00",
   "teams": [
     {
       "name": "Show Me Your TDs",
@@ -47,20 +47,20 @@
       "date": "2026-09-23",
       "home": "Show Me Your TDs",
       "away": "Belt to Ass",
-      "homeScore": 3,
+      "homeScore": 6,
       "awayScore": 0,
       "homePremiumCents": 0,
       "awayPremiumCents": 0,
       "homeSalesPoints": 0,
       "awaySalesPoints": 0,
-      "homeGoodConversations": 1,
+      "homeGoodConversations": 2,
       "awayGoodConversations": 0,
-      "homeGoodConversationPoints": 3,
+      "homeGoodConversationPoints": 6,
       "awayGoodConversationPoints": 0,
-      "homeFollowupPct": 5.357142857142857,
+      "homeFollowupPct": 10.909090909090908,
       "awayFollowupPct": 0.0,
-      "homeRicochetCalls": 19,
-      "awayRicochetCalls": 44,
+      "homeRicochetCalls": 31,
+      "awayRicochetCalls": 49,
       "final": false
     },
     {
@@ -77,9 +77,9 @@
       "awayGoodConversations": 0,
       "homeGoodConversationPoints": 3,
       "awayGoodConversationPoints": 0,
-      "homeFollowupPct": 0.0,
+      "homeFollowupPct": 15.0,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 78,
+      "homeRicochetCalls": 84,
       "awayRicochetCalls": 0,
       "final": false
     }
