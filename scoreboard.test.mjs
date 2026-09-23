@@ -3,13 +3,13 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { buildSchedule, gameDecision, getRecords, splitGames } from './scoreboard.js';
 
-const teams = ['Show Me Your TDs', 'Winning Will & Bryan', 'Belt to Ass', 'Chris Davis'];
+const teams = ['Show Me Your TDs', 'Winning Will & Bryan', 'Belt to Ass', 'Management'];
 
 test('buildSchedule creates every weekday matchup through October 19', () => {
   const games = buildSchedule(teams, '2026-09-22', '2026-10-19');
   assert.equal(games.length, 40);
   assert.deepEqual(games.filter((game) => game.date === '2026-09-22').map(({ home, away }) => [home, away]), [
-    ['Show Me Your TDs', 'Winning Will & Bryan'], ['Belt to Ass', 'Chris Davis'],
+    ['Show Me Your TDs', 'Winning Will & Bryan'], ['Belt to Ass', 'Management'],
   ]);
   assert.equal(games.at(-1).date, '2026-10-19');
 });
@@ -58,6 +58,6 @@ test('published data gives every final game a winner', async () => {
   const data = JSON.parse(await readFile(new URL('./data.json', import.meta.url), 'utf8'));
   assert.ok(data.games.filter((game) => game.final).map(gameDecision).every(Boolean));
   assert.deepEqual(Object.fromEntries(getRecords(data.teams.map((team) => team.name), data.games).map((row) => [row.team, row.record])), {
-    'Show Me Your TDs': '0-1', 'Winning Will & Bryan': '1-0', 'Belt to Ass': '1-0', 'Chris Davis': '0-1',
+    'Show Me Your TDs': '0-1', 'Winning Will & Bryan': '1-0', 'Belt to Ass': '1-0', 'Management': '0-1',
   });
 });

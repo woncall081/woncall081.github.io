@@ -1,5 +1,9 @@
 {
   "updatedAt": "2026-09-23T11:49:18-06:00",
+  "competition": {
+    "startDate": "2026-09-22",
+    "endDate": "2026-10-19"
+  },
   "teams": [
     {
       "name": "Show Me Your TDs",
@@ -25,6 +29,8 @@
       "away": "Winning Will & Bryan",
       "homeScore": 0,
       "awayScore": 0,
+      "homePremiumCents": 0,
+      "awayPremiumCents": 370500,
       "homeFollowupPct": 53.333333333333336,
       "awayFollowupPct": 85.71428571428571,
       "homeRicochetCalls": 303,
@@ -37,6 +43,8 @@
       "away": "Management",
       "homeScore": 3,
       "awayScore": 0,
+      "homePremiumCents": 85750,
+      "awayPremiumCents": 0,
       "homeFollowupPct": 20.0,
       "awayFollowupPct": null,
       "homeRicochetCalls": 417,

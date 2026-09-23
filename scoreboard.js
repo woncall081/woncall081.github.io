@@ -2,7 +2,7 @@ export const labels = {
   'Show Me Your TDs': "Show Me Your TD's",
   'Winning Will & Bryan': "WWB's",
   'Belt to Ass': "BTA's",
-  'Chris Davis': "Chris's",
+  'Management': 'Management',
 };
 
 const rotations = [
