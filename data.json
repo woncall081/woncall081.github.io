@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T17:48:46-06:00",
+  "updatedAt": "2026-09-22T18:04:49-06:00",
   "teams": [
     {
       "name": "Show Me Your TDs",
@@ -24,10 +24,10 @@
       "home": "Show Me Your TDs",
       "away": "Winning Will & Bryan",
       "homeScore": 0,
-      "awayScore": 6,
+      "awayScore": 0,
       "homeFollowupPct": 53.333333333333336,
       "awayFollowupPct": 85.71428571428571,
-      "homeRicochetCalls": 299,
+      "homeRicochetCalls": 303,
       "awayRicochetCalls": 348,
       "final": false
     },
