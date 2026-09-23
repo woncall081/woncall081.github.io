@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:47:53-06:00",
+  "updatedAt": "2026-09-23T15:01:29-06:00",
   "competition": {
     "startDate": "2026-09-22",
     "endDate": "2026-10-19"
@@ -65,10 +65,10 @@
       "awayGoodConversations": 3,
       "homeGoodConversationPoints": 9,
       "awayGoodConversationPoints": 9,
-      "homeFollowupPct": 51.92307692307693,
-      "awayFollowupPct": 5.88235294117647,
-      "homeRicochetCalls": 207,
-      "awayRicochetCalls": 243,
+      "homeFollowupPct": 55.76923076923077,
+      "awayFollowupPct": 11.764705882352942,
+      "homeRicochetCalls": 211,
+      "awayRicochetCalls": 245,
       "final": false
     },
     {
@@ -76,7 +76,7 @@
       "home": "Winning Will & Bryan",
       "away": "Management",
       "homeScore": 6,
-      "awayScore": 27,
+      "awayScore": 20,
       "homePremiumCents": 42000,
       "awayPremiumCents": 0,
       "homeSalesPoints": 3,
@@ -85,9 +85,9 @@
       "awayGoodConversations": 0,
       "homeGoodConversationPoints": 3,
       "awayGoodConversationPoints": 0,
-      "homeFollowupPct": 42.10526315789473,
+      "homeFollowupPct": 42.10526315789474,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 295,
+      "homeRicochetCalls": 304,
       "awayRicochetCalls": 0,
       "final": false
     }
