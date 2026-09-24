@@ -1,135 +1,18 @@
 {
-  "updatedAt": "2026-09-24T17:02:29-06:00",
-  "competition": {
-    "startDate": "2026-09-22",
-    "endDate": "2026-10-19"
-  },
+  "updatedAt": "2026-09-24T17:17:46-06:00",
+  "competition": {"startDate": "2026-09-22", "endDate": "2026-10-19"},
   "teams": [
-    {
-      "name": "Show Me Your TDs",
-      "players": "Bill Pointer & Caleb Haycox"
-    },
-    {
-      "name": "Winning Will & Bryan",
-      "players": "Bryan Eyermann & William McCartney"
-    },
-    {
-      "name": "Belt to Ass",
-      "players": "Shaki Walker & Alex Smith"
-    },
-    {
-      "name": "Management",
-      "players": "Management"
-    }
+    {"name": "Show Me Your TDs", "players": "Bill Pointer & Caleb Haycox"},
+    {"name": "Winning Will & Bryan", "players": "Bryan Eyermann & William McCartney"},
+    {"name": "Belt to Ass", "players": "Shaki Walker & Alex Smith"},
+    {"name": "Management", "players": "Management"}
   ],
   "games": [
-    {
-      "date": "2026-09-22",
-      "home": "Show Me Your TDs",
-      "away": "Winning Will & Bryan",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homePremiumCents": 0,
-      "awayPremiumCents": 370500,
-      "homeFollowupPct": 53.333333333333336,
-      "awayFollowupPct": 85.71428571428571,
-      "homeRicochetCalls": 303,
-      "awayRicochetCalls": 348,
-      "final": true
-    },
-    {
-      "date": "2026-09-22",
-      "home": "Belt to Ass",
-      "away": "Management",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homePremiumCents": 85750,
-      "awayPremiumCents": 0,
-      "homeFollowupPct": 20.0,
-      "awayFollowupPct": null,
-      "homeRicochetCalls": 417,
-      "awayRicochetCalls": 238,
-      "final": true
-    },
-    {
-      "date": "2026-09-23",
-      "home": "Show Me Your TDs",
-      "away": "Belt to Ass",
-      "homeScore": 8,
-      "awayScore": 1,
-      "homePremiumCents": 0,
-      "awayPremiumCents": 0,
-      "homeSalesPoints": 0,
-      "awaySalesPoints": 0,
-      "homeGoodConversations": 8,
-      "awayGoodConversations": 5,
-      "homeGoodConversationPoints": 24,
-      "awayGoodConversationPoints": 15,
-      "homeFollowupPct": 93.33333333333333,
-      "awayFollowupPct": 90.9090909090909,
-      "homeRicochetCalls": 313,
-      "awayRicochetCalls": 353,
-      "final": true
-    },
-    {
-      "date": "2026-09-23",
-      "home": "Winning Will & Bryan",
-      "away": "Management",
-      "homeScore": 21,
-      "awayScore": 11,
-      "homePremiumCents": 42000,
-      "awayPremiumCents": 0,
-      "homeSalesPoints": 3,
-      "awaySalesPoints": 27,
-      "homeGoodConversations": 6,
-      "awayGoodConversations": 0,
-      "homeGoodConversationPoints": 18,
-      "awayGoodConversationPoints": 0,
-      "homeFollowupPct": 88.88888888888889,
-      "awayFollowupPct": null,
-      "homeRicochetCalls": 385,
-      "awayRicochetCalls": 0,
-      "final": true
-    },
-    {
-      "date": "2026-09-24",
-      "home": "Show Me Your TDs",
-      "away": "Management",
-      "homeScore": 30,
-      "awayScore": 13,
-      "homePremiumCents": 37400,
-      "awayPremiumCents": 0,
-      "homeSalesPoints": 3,
-      "awaySalesPoints": 27,
-      "homeGoodConversations": 9,
-      "awayGoodConversations": 0,
-      "homeGoodConversationPoints": 27,
-      "awayGoodConversationPoints": 0,
-      "homeFollowupPct": 84.44444444444444,
-      "awayFollowupPct": null,
-      "homeRicochetCalls": 305,
-      "awayRicochetCalls": 0,
-      "final": false
-    },
-    {
-      "date": "2026-09-24",
-      "home": "Winning Will & Bryan",
-      "away": "Belt to Ass",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homePremiumCents": 0,
-      "awayPremiumCents": 0,
-      "homeSalesPoints": 0,
-      "awaySalesPoints": 0,
-      "homeGoodConversations": 3,
-      "awayGoodConversations": 5,
-      "homeGoodConversationPoints": 9,
-      "awayGoodConversationPoints": 15,
-      "homeFollowupPct": 86.36363636363636,
-      "awayFollowupPct": 81.81818181818183,
-      "homeRicochetCalls": 396,
-      "awayRicochetCalls": 392,
-      "final": false
-    }
+    {"date":"2026-09-22","home":"Show Me Your TDs","away":"Winning Will & Bryan","homeScore":0,"awayScore":0,"homePremiumCents":0,"awayPremiumCents":370500,"homeFollowupPct":53.333333333333336,"awayFollowupPct":85.71428571428571,"homeRicochetCalls":303,"awayRicochetCalls":348,"final":true},
+    {"date":"2026-09-22","home":"Belt to Ass","away":"Management","homeScore":3,"awayScore":0,"homePremiumCents":85750,"awayPremiumCents":0,"homeFollowupPct":20.0,"awayFollowupPct":null,"homeRicochetCalls":417,"awayRicochetCalls":238,"final":true},
+    {"date":"2026-09-23","home":"Show Me Your TDs","away":"Belt to Ass","homeScore":8,"awayScore":1,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":0,"homeGoodConversations":8,"awayGoodConversations":5,"homeGoodConversationPoints":24,"awayGoodConversationPoints":15,"homeFollowupPct":93.33333333333333,"awayFollowupPct":90.9090909090909,"homeRicochetCalls":313,"awayRicochetCalls":353,"final":true},
+    {"date":"2026-09-23","home":"Winning Will & Bryan","away":"Management","homeScore":21,"awayScore":11,"homePremiumCents":42000,"awayPremiumCents":0,"homeSalesPoints":3,"awaySalesPoints":27,"homeGoodConversations":6,"awayGoodConversations":0,"homeGoodConversationPoints":18,"awayGoodConversationPoints":0,"homeFollowupPct":88.88888888888889,"awayFollowupPct":null,"homeRicochetCalls":385,"awayRicochetCalls":0,"final":true},
+    {"date":"2026-09-24","home":"Show Me Your TDs","away":"Management","homeScore":33,"awayScore":13,"homePremiumCents":37400,"awayPremiumCents":0,"homeSalesPoints":3,"awaySalesPoints":27,"homeGoodConversations":10,"awayGoodConversations":0,"homeGoodConversationPoints":30,"awayGoodConversationPoints":0,"homeFollowupPct":84.44444444444444,"awayFollowupPct":null,"homeRicochetCalls":317,"awayRicochetCalls":0,"final":false},
+    {"date":"2026-09-24","home":"Winning Will & Bryan","away":"Belt to Ass","homeScore":0,"awayScore":0,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":0,"homeGoodConversations":4,"awayGoodConversations":5,"homeGoodConversationPoints":12,"awayGoodConversationPoints":15,"homeFollowupPct":90.9090909090909,"awayFollowupPct":81.81818181818181,"homeRicochetCalls":417,"awayRicochetCalls":401,"final":false}
   ]
 }
