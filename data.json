@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T15:03:21-06:00",
+  "updatedAt": "2026-09-24T15:18:20-06:00",
   "competition": {
     "startDate": "2026-09-22",
     "endDate": "2026-10-19"
@@ -105,9 +105,9 @@
       "awayGoodConversations": 0,
       "homeGoodConversationPoints": 21,
       "awayGoodConversationPoints": 0,
-      "homeFollowupPct": 74.46808510638297,
+      "homeFollowupPct": 76.59574468085107,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 227,
+      "homeRicochetCalls": 236,
       "awayRicochetCalls": 0,
       "final": false
     },
@@ -122,13 +122,13 @@
       "homeSalesPoints": 0,
       "awaySalesPoints": 0,
       "homeGoodConversations": 2,
-      "awayGoodConversations": 2,
+      "awayGoodConversations": 3,
       "homeGoodConversationPoints": 6,
-      "awayGoodConversationPoints": 6,
+      "awayGoodConversationPoints": 9,
       "homeFollowupPct": 86.36363636363636,
-      "awayFollowupPct": 0.0,
-      "homeRicochetCalls": 304,
-      "awayRicochetCalls": 330,
+      "awayFollowupPct": 15.384615384615385,
+      "homeRicochetCalls": 305,
+      "awayRicochetCalls": 341,
       "final": false
     }
   ]
