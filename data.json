@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T20:03:44-06:00",
+  "updatedAt": "2026-09-24T09:18:09-06:00",
   "competition": {
     "startDate": "2026-09-22",
     "endDate": "2026-10-19"
@@ -90,6 +90,46 @@
       "homeRicochetCalls": 385,
       "awayRicochetCalls": 0,
       "final": true
+    },
+    {
+      "date": "2026-09-24",
+      "home": "Show Me Your TDs",
+      "away": "Management",
+      "homeScore": 0,
+      "awayScore": 27,
+      "homePremiumCents": 0,
+      "awayPremiumCents": 0,
+      "homeSalesPoints": 0,
+      "awaySalesPoints": 27,
+      "homeGoodConversations": 0,
+      "awayGoodConversations": 0,
+      "homeGoodConversationPoints": 0,
+      "awayGoodConversationPoints": 0,
+      "homeFollowupPct": 0.0,
+      "awayFollowupPct": null,
+      "homeRicochetCalls": 0,
+      "awayRicochetCalls": 0,
+      "final": false
+    },
+    {
+      "date": "2026-09-24",
+      "home": "Winning Will & Bryan",
+      "away": "Belt to Ass",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homePremiumCents": 0,
+      "awayPremiumCents": 0,
+      "homeSalesPoints": 0,
+      "awaySalesPoints": 0,
+      "homeGoodConversations": 0,
+      "awayGoodConversations": 0,
+      "homeGoodConversationPoints": 0,
+      "awayGoodConversationPoints": 0,
+      "homeFollowupPct": 0.0,
+      "awayFollowupPct": 0.0,
+      "homeRicochetCalls": 0,
+      "awayRicochetCalls": 1,
+      "final": false
     }
   ]
 }
