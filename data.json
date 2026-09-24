@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T17:36:15-06:00",
+  "updatedAt": "2026-09-23T18:03:13-06:00",
   "competition": {
     "startDate": "2026-09-22",
     "endDate": "2026-10-19"
@@ -56,7 +56,7 @@
       "home": "Show Me Your TDs",
       "away": "Belt to Ass",
       "homeScore": 10,
-      "awayScore": 8,
+      "awayScore": 1,
       "homePremiumCents": 0,
       "awayPremiumCents": 0,
       "homeSalesPoints": 0,
@@ -65,10 +65,10 @@
       "awayGoodConversations": 5,
       "homeGoodConversationPoints": 24,
       "awayGoodConversationPoints": 15,
-      "homeFollowupPct": 91.48936170212765,
+      "homeFollowupPct": 93.33333333333333,
       "awayFollowupPct": 90.9090909090909,
-      "homeRicochetCalls": 281,
-      "awayRicochetCalls": 325,
+      "homeRicochetCalls": 306,
+      "awayRicochetCalls": 340,
       "final": false
     },
     {
@@ -87,7 +87,7 @@
       "awayGoodConversationPoints": 0,
       "homeFollowupPct": 88.88888888888889,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 383,
+      "homeRicochetCalls": 385,
       "awayRicochetCalls": 0,
       "final": false
     }
