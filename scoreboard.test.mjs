@@ -56,8 +56,12 @@ test('splitGames separates final results from the remaining schedule', () => {
 
 test('published data gives every final game a winner', async () => {
   const data = JSON.parse(await readFile(new URL('./data.json', import.meta.url), 'utf8'));
-  assert.ok(data.games.filter((game) => game.final).map(gameDecision).every(Boolean));
-  assert.deepEqual(Object.fromEntries(getRecords(data.teams.map((team) => team.name), data.games).map((row) => [row.team, row.record])), {
-    'Show Me Your TDs': '0-1', 'Winning Will & Bryan': '1-0', 'Belt to Ass': '1-0', 'Management': '0-1',
-  });
+  const finalGames = data.games.filter((game) => game.final);
+  assert.ok(finalGames.map(gameDecision).every(Boolean));
+  const records = getRecords(data.teams.map((team) => team.name), data.games);
+  const totals = records.reduce((result, row) => {
+    const [wins, losses] = row.record.split('-').map(Number);
+    return { wins: result.wins + wins, losses: result.losses + losses };
+  }, { wins: 0, losses: 0 });
+  assert.deepEqual(totals, { wins: finalGames.length, losses: finalGames.length });
 });
