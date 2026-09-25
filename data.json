@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-25T14:49:30-06:00",
+    "updatedAt": "2026-09-25T15:03:05-06:00",
     "competition": {
         "startDate": "2026-09-22",
         "endDate": "2026-10-19"
@@ -135,20 +135,20 @@
             "date": "2026-09-25",
             "home": "Show Me Your TDs",
             "away": "Winning Will & Bryan",
-            "homeScore": 11,
+            "homeScore": 14,
             "awayScore": 7,
             "homePremiumCents": 0,
             "awayPremiumCents": 527600,
             "homeSalesPoints": 0,
             "awaySalesPoints": 7,
-            "homeGoodConversations": 6,
+            "homeGoodConversations": 7,
             "awayGoodConversations": 1,
-            "homeGoodConversationPoints": 18,
+            "homeGoodConversationPoints": 21,
             "awayGoodConversationPoints": 3,
             "homeFollowupPct": 76.19047619047619,
-            "awayFollowupPct": 83.33333333333334,
-            "homeRicochetCalls": 171,
-            "awayRicochetCalls": 217,
+            "awayFollowupPct": 83.33333333333333,
+            "homeRicochetCalls": 180,
+            "awayRicochetCalls": 225,
             "final": false
         },
         {
@@ -167,7 +167,7 @@
             "awayGoodConversationPoints": 0,
             "homeFollowupPct": 6.666666666666667,
             "awayFollowupPct": null,
-            "homeRicochetCalls": 286,
+            "homeRicochetCalls": 292,
             "awayRicochetCalls": 0,
             "final": false
         }
