@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T10:48:15-06:00",
+  "updatedAt": "2026-09-25T11:03:48-06:00",
   "competition": {
     "startDate": "2026-09-22",
     "endDate": "2026-10-19"
@@ -146,28 +146,28 @@
       "homeGoodConversationPoints": 3,
       "awayGoodConversationPoints": 0,
       "homeFollowupPct": 0.0,
-      "awayFollowupPct": 15.0,
-      "homeRicochetCalls": 53,
-      "awayRicochetCalls": 59,
+      "awayFollowupPct": 45.0,
+      "homeRicochetCalls": 62,
+      "awayRicochetCalls": 66,
       "final": false
     },
     {
       "date": "2026-09-25",
       "home": "Belt to Ass",
       "away": "Management",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 27,
       "homePremiumCents": 0,
       "awayPremiumCents": 0,
       "homeSalesPoints": 0,
       "awaySalesPoints": 27,
-      "homeGoodConversations": 0,
+      "homeGoodConversations": 1,
       "awayGoodConversations": 0,
-      "homeGoodConversationPoints": 0,
+      "homeGoodConversationPoints": 3,
       "awayGoodConversationPoints": 0,
       "homeFollowupPct": 0.0,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 105,
+      "homeRicochetCalls": 120,
       "awayRicochetCalls": 0,
       "final": false
     }
