@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T19:48:21-06:00",
+  "updatedAt": "2026-09-25T20:05:32-06:00",
   "competition": {
     "startDate": "2026-09-22",
     "endDate": "2026-10-19"
@@ -149,7 +149,7 @@
       "awayFollowupPct": 94.11764705882354,
       "homeRicochetCalls": 302,
       "awayRicochetCalls": 333,
-      "final": false
+      "final": true
     },
     {
       "date": "2026-09-25",
@@ -169,7 +169,7 @@
       "awayFollowupPct": null,
       "homeRicochetCalls": 352,
       "awayRicochetCalls": 0,
-      "final": false
+      "final": true
     }
   ]
 }
