@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:18:50-06:00",
+  "updatedAt": "2026-09-29T15:33:29-06:00",
   "competition": {
     "startDate": "2026-09-22",
     "endDate": "2026-10-19"
@@ -225,9 +225,9 @@
       "awayGoodConversations": 0,
       "homeGoodConversationPoints": 6,
       "awayGoodConversationPoints": 0,
-      "homeFollowupPct": 6.382978723404255,
+      "homeFollowupPct": 29.545454545454547,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 228,
+      "homeRicochetCalls": 234,
       "awayRicochetCalls": 0,
       "final": false
     },
@@ -247,7 +247,7 @@
       "awayGoodConversationPoints": 15,
       "homeFollowupPct": 0.0,
       "awayFollowupPct": 53.333333333333336,
-      "homeRicochetCalls": 201,
+      "homeRicochetCalls": 216,
       "awayRicochetCalls": 249,
       "final": false
     }
