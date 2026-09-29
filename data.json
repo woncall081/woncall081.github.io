@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:33:14-06:00",
+  "updatedAt": "2026-09-29T16:47:50-06:00",
   "competition": {
     "startDate": "2026-09-22",
     "endDate": "2026-10-19"
@@ -215,19 +215,19 @@
       "date": "2026-09-29",
       "home": "Show Me Your TDs",
       "away": "Management",
-      "homeScore": 19,
-      "awayScore": 27,
-      "homePremiumCents": 519850,
+      "homeScore": 22,
+      "awayScore": 20,
+      "homePremiumCents": 529850,
       "awayPremiumCents": 0,
-      "homeSalesPoints": 7,
+      "homeSalesPoints": 10,
       "awaySalesPoints": 27,
       "homeGoodConversations": 4,
       "awayGoodConversations": 0,
       "homeGoodConversationPoints": 12,
       "awayGoodConversationPoints": 0,
-      "homeFollowupPct": 30.23255813953488,
+      "homeFollowupPct": 30.232558139534884,
       "awayFollowupPct": null,
-      "homeRicochetCalls": 299,
+      "homeRicochetCalls": 312,
       "awayRicochetCalls": 0,
       "final": false
     },
