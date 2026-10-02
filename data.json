@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T13:50:40-06:00",
+  "updatedAt": "2026-10-02T14:02:16-06:00",
   "competition": {
     "startDate": "2026-09-22",
     "endDate": "2026-10-19"
@@ -337,7 +337,7 @@
       "away": "Management",
       "homeScore": 7,
       "awayScore": 27,
-      "homePremiumCents": 1432400,
+      "homePremiumCents": 1692900,
       "awayPremiumCents": 0,
       "homeSalesPoints": 7,
       "awaySalesPoints": 27,
@@ -355,20 +355,20 @@
       "date": "2026-10-02",
       "home": "Winning Will & Bryan",
       "away": "Belt to Ass",
-      "homeScore": 15,
+      "homeScore": 18,
       "awayScore": 9,
       "homePremiumCents": 0,
       "awayPremiumCents": 0,
       "homeSalesPoints": 0,
       "awaySalesPoints": 0,
-      "homeGoodConversations": 5,
+      "homeGoodConversations": 6,
       "awayGoodConversations": 3,
-      "homeGoodConversationPoints": 15,
+      "homeGoodConversationPoints": 18,
       "awayGoodConversationPoints": 9,
       "homeFollowupPct": 44.0,
       "awayFollowupPct": 12.5,
-      "homeRicochetCalls": 149,
-      "awayRicochetCalls": 159,
+      "homeRicochetCalls": 155,
+      "awayRicochetCalls": 168,
       "final": false
     }
   ]
