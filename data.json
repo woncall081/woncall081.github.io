@@ -1,5 +1,5 @@
 {
-"updatedAt":"2026-10-02T11:18:38-06:00",
+"updatedAt":"2026-10-02T11:35:26-06:00",
 "competition":{"startDate":"2026-09-22","endDate":"2026-10-19"},
 "teams":[{"name":"Show Me Your TDs","players":"Bill Pointer & Caleb Haycox"},{"name":"Winning Will & Bryan","players":"Bryan Eyermann & William McCartney"},{"name":"Belt to Ass","players":"Shaki Walker & Alex Smith"},{"name":"Management","players":"Management"}],
 "games": [
@@ -20,6 +20,6 @@
 {"date":"2026-10-01","home":"Show Me Your TDs","away":"Belt to Ass","homeScore":28,"awayScore":18,"homePremiumCents":0,"awayPremiumCents":406050,"homeSalesPoints":0,"awaySalesPoints":7,"homeGoodConversations":14,"awayGoodConversations":9,"homeGoodConversationPoints":42,"awayGoodConversationPoints":27,"homeFollowupPct":80.0,"awayFollowupPct":90.9090909090909,"homeRicochetCalls":385,"awayRicochetCalls":312,"final":true},
 {"date":"2026-10-01","home":"Winning Will & Bryan","away":"Management","homeScore":18,"awayScore":11,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":27,"homeGoodConversations":6,"awayGoodConversations":0,"homeGoodConversationPoints":18,"awayGoodConversationPoints":0,"homeFollowupPct":95.0,"awayFollowupPct":null,"homeRicochetCalls":377,"awayRicochetCalls":0,"final":true},
 {"date":"2026-10-02","home":"Show Me Your TDs","away":"Management","homeScore":0,"awayScore":27,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":27,"homeGoodConversations":0,"awayGoodConversations":0,"homeGoodConversationPoints":0,"awayGoodConversationPoints":0,"homeFollowupPct":0.0,"awayFollowupPct":null,"homeRicochetCalls":20,"awayRicochetCalls":0,"final":false},
-{"date":"2026-10-02","home":"Winning Will & Bryan","away":"Belt to Ass","homeScore":3,"awayScore":0,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":0,"homeGoodConversations":1,"awayGoodConversations":0,"homeGoodConversationPoints":3,"awayGoodConversationPoints":0,"homeFollowupPct":14.814814814814813,"awayFollowupPct":5.88235294117647,"homeRicochetCalls":63,"awayRicochetCalls":96,"final":false}
+{"date":"2026-10-02","home":"Winning Will & Bryan","away":"Belt to Ass","homeScore":3,"awayScore":3,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":0,"homeGoodConversations":1,"awayGoodConversations":1,"homeGoodConversationPoints":3,"awayGoodConversationPoints":3,"homeFollowupPct":34.61538461538461,"awayFollowupPct":12.5,"homeRicochetCalls":73,"awayRicochetCalls":101,"final":false}
 ]
 }
