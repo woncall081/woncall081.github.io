@@ -1,5 +1,5 @@
 {
-"updatedAt":"2026-10-12T10:16:59-06:00",
+"updatedAt":"2026-10-12T10:33:02-06:00",
 "competition":{"startDate":"2026-09-22","endDate":"2026-10-19"},
 "teams":[{"name":"Show Me Your TDs","players":"Bill Pointer & Caleb Haycox"},{"name":"Winning Will & Bryan","players":"Bryan Eyermann & William McCartney"},{"name":"Belt to Ass","players":"Shaki Walker & Alex Smith"},{"name":"Management","players":"Management"}],
 "games":[
@@ -31,7 +31,7 @@
 {"date":"2026-10-08","home":"Belt to Ass","away":"Management","homeScore":42,"awayScore":20,"homePremiumCents":175900,"awayPremiumCents":0,"homeSalesPoints":3,"awaySalesPoints":27,"homeGoodConversations":13,"awayGoodConversations":0,"homeGoodConversationPoints":39,"awayGoodConversationPoints":0,"homeFollowupPct":86.95652173913044,"awayFollowupPct":null,"homeRicochetCalls":251,"awayRicochetCalls":0,"final":true},
 {"date":"2026-10-09","home":"Show Me Your TDs","away":"Belt to Ass","homeScore":1,"awayScore":24,"homePremiumCents":0,"awayPremiumCents":20000,"homeSalesPoints":0,"awaySalesPoints":3,"homeGoodConversations":5,"awayGoodConversations":10,"homeGoodConversationPoints":15,"awayGoodConversationPoints":30,"homeFollowupPct":69.6969696969697,"awayFollowupPct":84.0,"homeRicochetCalls":367,"awayRicochetCalls":306,"final":true},
 {"date":"2026-10-09","home":"Winning Will & Bryan","away":"Management","homeScore":16,"awayScore":27,"homePremiumCents":506600,"awayPremiumCents":0,"homeSalesPoints":7,"awaySalesPoints":27,"homeGoodConversations":3,"awayGoodConversations":0,"homeGoodConversationPoints":9,"awayGoodConversationPoints":0,"homeFollowupPct":40.0,"awayFollowupPct":null,"homeRicochetCalls":173,"awayRicochetCalls":0,"final":true},
-{"date":"2026-10-12","home":"Show Me Your TDs","away":"Management","homeScore":0,"awayScore":27,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":27,"homeGoodConversations":0,"awayGoodConversations":0,"homeGoodConversationPoints":0,"awayGoodConversationPoints":0,"homeFollowupPct":0.0,"awayFollowupPct":null,"homeRicochetCalls":87,"awayRicochetCalls":0,"final":false},
-{"date":"2026-10-12","home":"Winning Will & Bryan","away":"Belt to Ass","homeScore":0,"awayScore":12,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":0,"homeGoodConversations":0,"awayGoodConversations":4,"homeGoodConversationPoints":0,"awayGoodConversationPoints":12,"homeFollowupPct":0.0,"awayFollowupPct":0.0,"homeRicochetCalls":36,"awayRicochetCalls":28,"final":false}
+{"date":"2026-10-12","home":"Show Me Your TDs","away":"Management","homeScore":0,"awayScore":27,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":27,"homeGoodConversations":0,"awayGoodConversations":0,"homeGoodConversationPoints":0,"awayGoodConversationPoints":0,"homeFollowupPct":0.0,"awayFollowupPct":null,"homeRicochetCalls":103,"awayRicochetCalls":0,"final":false},
+{"date":"2026-10-12","home":"Winning Will & Bryan","away":"Belt to Ass","homeScore":0,"awayScore":18,"homePremiumCents":0,"awayPremiumCents":0,"homeSalesPoints":0,"awaySalesPoints":0,"homeGoodConversations":0,"awayGoodConversations":6,"homeGoodConversationPoints":0,"awayGoodConversationPoints":18,"homeFollowupPct":0.0,"awayFollowupPct":0.0,"homeRicochetCalls":43,"awayRicochetCalls":30,"final":false}
 ]
 }
